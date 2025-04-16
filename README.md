@@ -13,7 +13,7 @@ I’m **Said Roohullah Allem**, a **Full Stack Web Developer** specializing in b
 ---
 
 
-### 📚 [LinkedIn2GitHub](https://github.com/jahanalem/LinkedIn2GitHub)  
+### 📚 [LinkedIn2GitHub](https://github.com/jahanalem/LinkedIn2GitHub?tab=readme-ov-file#linkedin2github)  
 This repository preserves my technical articles and project insights—documenting challenges, solutions, and industry perspectives.  
 
 *Explore here: [LinkedIn2GitHub Repository](https://github.com/jahanalem/LinkedIn2GitHub?tab=readme-ov-file#linkedin2github)*  
