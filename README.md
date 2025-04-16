@@ -40,19 +40,3 @@ A Telegram bot leveraging **OpenAI** for real-time translations:
 [![Xing](https://img.shields.io/badge/Xing-Said_Roohullah_Allem-%230077B5)](https://www.xing.com/profile/SaidRoohullah_Allem/)  
 
 ---
-
-### 💻 Tech Stack (Highlights)  
-![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=.net)  
-![Angular](https://img.shields.io/badge/Angular-19-DD0031?logo=angular)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)  
-
----
-
-# 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=jahanalem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=jahanalem&theme=dark&hide_border=false)  
-
-[![](https://visitcount.itsvg.in/api?id=jahanalem&icon=0&color=0)](https://visitcount.itsvg.in)  
