@@ -22,11 +22,12 @@ This repository preserves my technical articles and project insights—documenti
 
 ### 🚀 Active Projects  
 
-#### 🛒 **[LiliShop](https://lilishop-bwdfb5azanh0cfa8.germanywestcentral-01.azurewebsites.net/shop)**  
-A full-fledged e-commerce platform I built solo:  
-- **Backend**: .NET 9, Redis (caching), Cloudinary (media), SendGrid (email), Hangfire(Background Task), Entity Framework (ORM)  
-- **Frontend**: Angular, lazy loading, reactive forms, signals  
-- **QA**: xUnit tests, Postman API/performance tests  
+### 🛒 [LiliShop - Fullstack E-Commerce](https://lilishop-bwdfb5azanh0cfa8.germanywestcentral-01.azurewebsites.net/shop)  
+**Solo-developed** online shop featuring:  
+- **Backend**: .NET 9, Redis caching, Cloudinary media storage, SendGrid email, Hangfire (background tasks)  
+- **Frontend**: Angular with lazy loading, reactive forms, and modern signals  
+- **Quality**: xUnit tests + Postman API/performance  
+
 
 #### 🤖 **[SmartSupervisorBot](https://github.com/jahanalem/SmartSupervisorBot)**  
 A Telegram bot leveraging **OpenAI** for real-time translations:  
@@ -35,8 +36,8 @@ A Telegram bot leveraging **OpenAI** for real-time translations:
 
 ---
 
-### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Said_Roohullah_Allem-%230077B5)](https://www.linkedin.com/in/said-roohullah-allem/)  
-[![Xing](https://img.shields.io/badge/Xing-Said_Roohullah_Allem-%230077B5)](https://www.xing.com/profile/SaidRoohullah_Allem/)  
+## 📫 Professional Connections  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://www.linkedin.com/in/said-roohullah-allem/)  
+[![Xing](https://img.shields.io/badge/Xing-Profile-%2300658C?logo=xing)](https://www.xing.com/profile/SaidRoohullah_Allem/)  
 
 ---
