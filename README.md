@@ -35,9 +35,15 @@ A Telegram bot leveraging **OpenAI** for real-time translations:
 - Migrated from console app to scalable web service  
 
 ---
-
 ## 📫 Professional Connections  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?logo=linkedin)](https://www.linkedin.com/in/said-roohullah-allem/)  
 [![Xing](https://img.shields.io/badge/Xing-Profile-%2300658C?logo=xing)](https://www.xing.com/profile/SaidRoohullah_Allem/)  
 
+
 ---
+> "Harmonie und Schönheit können aus den komplexesten und scheinbar unzusammenhängenden Dingen entstehen."
+>
+> «هماهنگی و زیبایی می‌تواند از دل پیچیده‌ترین و نامرتبط‌ترین چیزها بیرون بیاید.»
+>
+> $$e^{i\pi} + 1 = 0$$
+
