@@ -1,8 +1,8 @@
 # 💫 About Me
 
-### 👋 Full Stack Developer | .NET & Angular Specialist | Clean Code Advocate
+### 👋 Full Stack Developer | Focus on .NET & Angular | Passion for Clean Code
 
-I’m **Said Roohullah Allem**, a **Full Stack Web Developer** specializing in building scalable applications using **.NET Core**, **Angular**. My passion lies in architecting maintainable systems and optimizing performance.
+I’m **Said Roohullah Allem**, a **Full Stack Web Developer** focused on developing modern web applications with **.NET Core** and **Angular**. I am continuously improving my skills through practical projects and open-source contributions, with a passion for writing clean and maintainable code.
 
 ### 🔥 Key Expertise  
 ✔ **Backend**: .NET 9, C#, Entity Framework, Redis, REST APIs  
@@ -14,7 +14,7 @@ I’m **Said Roohullah Allem**, a **Full Stack Web Developer** specializing in b
 
 
 ### 📚 [LinkedIn2GitHub](https://github.com/jahanalem/LinkedIn2GitHub?tab=readme-ov-file#linkedin2github)  
-This repository preserves my technical articles and project insights—documenting challenges, and solutions.  
+This repository collects my **technical articles and project insights**, documenting challenges and solutions.
 
 *Explore here: [LinkedIn2GitHub Repository](https://github.com/jahanalem/LinkedIn2GitHub#linkedin2github)*  
 
@@ -23,10 +23,10 @@ This repository preserves my technical articles and project insights—documenti
 ### 🚀 Active Projects  
 
 ### 🛒 [LiliShop - Fullstack E-Commerce](https://lilishop-bwdfb5azanh0cfa8.germanywestcentral-01.azurewebsites.net/shop)  
-**Solo-developed** online shop featuring:  
+E-commerce application developed with:
 - **Backend**: .NET 9, Redis caching, Cloudinary media storage, SendGrid email, Hangfire (background tasks)  
 - **Frontend**: Angular with lazy loading, reactive forms, and modern signals  
-- **Quality**: xUnit tests + Postman API/performance  
+- **Quality**: xUnit tests + Postman API testing  
 
 
 #### 🤖 **[SmartSupervisorBot](https://github.com/jahanalem/SmartSupervisorBot)**  
