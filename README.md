@@ -1,8 +1,10 @@
 # 💫 About Me
 
-### 👋 Full Stack Developer | Focus on .NET & Angular | Passion for Clean Code
+### 👋 Full Stack Developer | Focus on .NET & Angular | Passion for Clean Code & Software Quality
 
-I’m **Said Roohullah Allem**, a **Full Stack Web Developer** focused on developing modern web applications with **.NET Core** and **Angular**. I am continuously improving my skills through practical projects and open-source contributions, with a passion for writing clean and maintainable code.
+I’m **Said Roohullah Allem**, a **Full Stack Web Developer** focused on developing modern web applications with **.NET Core** and **Angular**.  
+Alongside building scalable applications, I am passionate about **software quality** – applying **unit tests**, **API testing**, and clean coding principles to ensure maintainability and reliability.  
+I am continuously improving my skills through practical projects and open-source contributions.
 
 ### 🔥 Key Expertise  
 ✔ **Backend**: .NET 9, C#, Entity Framework, Redis, REST APIs  
