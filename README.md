@@ -49,3 +49,10 @@ A Telegram bot leveraging **OpenAI** for real-time translations:
 >
 > $$e^{i\pi} + 1 = 0$$
 
+
+
+#proactive #dedicated #eagertolearn #proactiveproblemsolver
+
+#proaktiv #engagiert #lernbegierig #initiativerProblemlöser
+
+#فعال #متعهد #علاقه‌مند_به_یادگیری #حل_کننده_مسئله
