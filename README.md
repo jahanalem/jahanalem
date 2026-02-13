@@ -26,7 +26,7 @@ This repository collects my **technical articles and project insights**, documen
 
 ### 🛒 [LiliShop - Fullstack E-Commerce](https://lilishop-bwdfb5azanh0cfa8.germanywestcentral-01.azurewebsites.net/shop)  
 E-commerce application developed with:
-- **Backend**: .NET 9, Redis caching, Cloudinary media storage, SendGrid email, Hangfire (background tasks)  
+- **Backend**: .NET 10, Redis caching, Cloudinary media storage, SendGrid email, Hangfire (background tasks)  
 - **Frontend**: Angular with lazy loading, reactive forms, and modern signals  
 - **Quality**: xUnit tests + Postman API testing  
 
