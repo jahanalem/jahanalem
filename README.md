@@ -44,8 +44,8 @@ A Telegram bot leveraging **OpenAI** for real-time translations:
 
 ---
 >
->  "Harmony and beauty can emerge from the most complex and seemingly unrelated things."
+>  "Harmony and beauty can emerge from the most complex and seemingly unrelated things." $$e^{i\pi} + 1 = 0$$
 
->
-> $$e^{i\pi} + 1 = 0$$
+<img width="1754" height="432" alt="Quote" src="https://github.com/user-attachments/assets/da0960fe-19c6-4443-bf38-6f394443a75c" />
+
 
