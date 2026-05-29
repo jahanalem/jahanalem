@@ -7,7 +7,7 @@ Alongside building scalable applications, I am passionate about **software quali
 I am continuously improving my skills through practical projects and open-source contributions.
 
 ### 🔥 Key Expertise  
-✔ **Backend**: .NET 9, C#, Entity Framework, Redis, REST APIs  
+✔ **Backend**: .NET 10, C#, Entity Framework, Redis, REST APIs  
 ✔ **Frontend**: Angular, TypeScript, RxJS, Responsive Design  
 ✔ **DevOps**: GitHub Actions (CI/CD)  
 ✔ **Quality**: Unit Testing (xUnit), API Testing (Postman), Code Reviews  
